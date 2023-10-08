@@ -40,6 +40,6 @@ components= {
     instance_type = "t3.micro"
   }
 }
-security_groups = ["sg-0634b360d4d7dc216"]
+security_groups = [ "sg-0634b360d4d7dc216" ]
 zone_id = "Z02904712FMTLMWVAWWYZ"
 

@@ -1,3 +1,3 @@
 bucket = "gudishiva"
-key    = "prod/terraform.tfvars"
+key    = "prod/terraform.tfstate"
 region = "us-east-1"

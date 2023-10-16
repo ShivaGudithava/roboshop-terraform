@@ -1,4 +1,4 @@
-components= {
+components = {
     frontend = {
       name          = "frontend"
       instance_type = "t3.small"
@@ -40,8 +40,8 @@ components= {
       instance_type = "t3.small"
     }
   }
-security_groups = ["sg-0634b360d4d7dc216"]
-zone_id = "Z02904712FMTLMWVAWWYZ"
+ security_groups = [ "sg-0634b360d4d7dc216" ]
+ zone_id = "Z02904712FMTLMWVAWWYZ"
 
 
 
